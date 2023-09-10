@@ -1,0 +1,5 @@
+a = input()
+a = int(a,16)
+pirnt("%o" %a)   
+#o = octal(8진수)
+#16진수(a) -> 8진수(a)
