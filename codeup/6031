@@ -1,0 +1,3 @@
+a = int(input())
+pirnt(chr(a))
+#정수a -> 유니코드 문자a
