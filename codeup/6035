@@ -1,0 +1,4 @@
+x,y = input().split()
+z = float(x)*float(y)
+print(z)
+#실수z
