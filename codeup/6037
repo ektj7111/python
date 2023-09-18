@@ -1,0 +1,4 @@
+x = input()
+w = input()
+print(int(x) * w)
+#int(x) * w 
