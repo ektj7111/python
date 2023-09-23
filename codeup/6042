@@ -1,4 +1,4 @@
 x = input()
 x = float(x)
-print(format(x,".2f")
+print(format(x,".2f"))
 #소수의 2번째자리 까지 반올림
