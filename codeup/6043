@@ -1,0 +1,5 @@
+x,y = input().split()
+x = float(x)
+y = float(y)
+print(format(x / y,".3f))
+#x / y 값의 소수점 3번째 까지 반올림한 값
