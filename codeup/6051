@@ -1,0 +1,3 @@
+  x,y = input().spli()
+  print(int(x) != int(y))
+  #x와 y값이 같음 = Fale or x와 y값이 다름 = True
