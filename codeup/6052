@@ -1,0 +1,3 @@
+x,y = inpu().spli()
+x = int(x)
+print(bool(x))
