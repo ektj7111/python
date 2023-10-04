@@ -1,3 +1,4 @@
 x,y = inpu().spli()
 x = int(x)
 print(bool(x))
+#x가 0일시: Fale , x가 0이외의 값일 때: True
