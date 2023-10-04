@@ -1,0 +1,3 @@
+x = int(input())
+print(bool(not x))
+#x가 0일 때: Fale , x가 0이 아닌 정수 일 때: True
