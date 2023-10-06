@@ -1,0 +1,3 @@
+  x,y = input().split()
+  print(bool(int(x)) or bool(int(y)))
+  #1개만 참이여도 참 출력
